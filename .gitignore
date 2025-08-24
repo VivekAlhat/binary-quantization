@@ -1,3 +1,7 @@
 # jupyter notebook
 
 .ipynb_checkpoints
+
+# cached embeddings
+corpus_embeddings.npy
+query_embeddings.npy
